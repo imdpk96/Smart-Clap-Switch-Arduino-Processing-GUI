@@ -3,7 +3,6 @@
 Control your bulb with just two claps — and see its status in a custom desktop GUI!  
 This DIY **home automation project** is perfect for beginners using **Arduino UNO**, a **sound sensor**, and a **relay module**. Plus, it's visualized beautifully in **Processing** using real-time Serial communication.
 
----
 
 ## 🎯 Features
 
@@ -13,7 +12,6 @@ This DIY **home automation project** is perfect for beginners using **Arduino UN
 - 🧠 **Debouncing + Clap Window Logic** – Accurate, reliable triggering
 - ⚡ Easy to build with beginner-friendly components
 
----
 
 ## 🔧 Components Used
 
@@ -40,28 +38,6 @@ This DIY **home automation project** is perfect for beginners using **Arduino UN
 - Shows bulb as **yellow glowing** when ON and **gray dim** when OFF
 - Displays `"Bulb is ON"` / `"Bulb is OFF"` as text
 
----
-
-## 📁 Project Structure
-
-Smart-Clap-Switch-Arduino-Processing-GUI/
-│
-├── Arduino_Code/
-│ └── ClapSwitch_DoubleClap.ino
-│
-├── Processing_GUI/
-│ └── ClapBulb_GUI.pde
-│
-├── Images/ ← Optional (if using bulb images)
-│ ├── bulb_on.png
-│ └── bulb_off.png
-│
-├── README.md
-└── LICENSE
-
-
----
-
 ## 🧪 How to Use
 
 1. Upload the `ClapSwitch_DoubleClap.ino` code to your Arduino UNO.
@@ -70,7 +46,6 @@ Smart-Clap-Switch-Arduino-Processing-GUI/
 4. Clap **twice** to turn the bulb **ON**, clap **twice** again to turn it **OFF**.
 5. Watch the GUI update in real-time!
 
----
 
 ## 🖼️ Preview
 
@@ -78,7 +53,6 @@ Smart-Clap-Switch-Arduino-Processing-GUI/
 
 > 📽️ YouTube Video: Coming soon on [@TheIITianDpk](https://www.youtube.com/@TheIITianDpk)
 
----
 
 ## 📱 Connect with Me
 
@@ -92,22 +66,18 @@ Smart-Clap-Switch-Arduino-Processing-GUI/
 
 ---
 
-## 🔖 GitHub Tags (SEO Optimized)
+## 🔖 GitHub Tags
 
 `#Arduino` `#ClapSwitch` `#SoundSensor` `#RelayModule` `#ProcessingGUI`  
 `#HomeAutomation` `#ArduinoProjects` `#SerialCommunication` `#SmartBulb` `#DIYElectronics`
 
----
 
 ## 📄 License
 
 This project is open-source under the **MIT License** — feel free to modify and build upon it.
 
----
 
 ## 💬 Feedback
 
 If you liked the project or used it in your own setup, tag me on **Instagram** or **LinkedIn**! I'd love to share your version too.  
 And don't forget to **star this repo ⭐** if you found it useful!
-
----
